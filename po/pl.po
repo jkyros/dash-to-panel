@@ -1816,10 +1816,6 @@ msgstr "Nazwa strony preferencji do wyświetlenia"
 msgid "Track if the preferences window is opened"
 msgstr "Śledź, czy okno preferencji jest otwarte"
 
-#: schemas/org.gnome.shell.extensions.dash-to-panel.gschema.xml:1358
-msgid "Unix time when the donate icon was hidden"
-msgstr "Czas uniksowy, kiedy ikona darowizny została ukryta"
-
 #: schemas/org.gnome.shell.extensions.dash-to-panel.gschema.xml:1362
 msgid "Installed extension version"
 msgstr "Zainstalowana wersja rozszerzenia"
@@ -2139,17 +2135,9 @@ msgstr "Eksportuj ustawienia"
 msgid "Import settings"
 msgstr "Importuj ustawienia"
 
-#: src/taskbar.js:66
-msgid "Hide and donation options"
-msgstr "Opcje ukrywania i przekazywania darowizn"
-
 #: src/taskbar.js:79
 msgid "Thank you!"
 msgstr "Dziękuję!"
-
-#: src/taskbar.js:79
-msgid "Please donate :)"
-msgstr "Proszę o darowiznę :)"
 
 #: src/windowPreview.js:1130
 msgid "Move to current Workspace"
@@ -3040,39 +3028,6 @@ msgstr "Kliknij na pustą przestrzeń, aby zamknąć przegląd"
 #: ui/SettingsBehavior.ui:179
 msgid "Disable show overview on startup"
 msgstr "Wyłącz pokazywanie przeglądu przy uruchomieniu"
-
-#: ui/SettingsDonation.ui:10
-msgid "Donation"
-msgstr "Darowizna"
-
-#: ui/SettingsDonation.ui:36
-msgid ""
-"<span size=\"large\">Gnome is the best desktop environment. No question. But "
-"if you're like me and would never use it without the enhanced workflow that "
-"Dash to Panel provides, please support my work by making a donation.</span>"
-msgstr ""
-"<span size=\"large\">Gnome to najlepsze środowisko graficzne. Bez dwóch "
-"zdań. Ale jeśli jesteś taki jak ja i nigdy byś z niego nie korzystał bez "
-"ulepszonego przepływu pracy, jaki zapewnia Dash to Panel, proszę, wesprzyj "
-"moją pracę, dokonując darowizny.</span>"
-
-#: ui/SettingsDonation.ui:45
-msgid ""
-"I know you're thinking \"I don't have time for this\", but consider that "
-"I've poured countless volunteer hours into making Dash to Panel a quality "
-"extension that is useful to YOU! :)"
-msgstr ""
-"Wiem, że myślisz \"Nie mam na to czasu\", ale weź pod uwagę, że poświęciłem "
-"niezliczone godziny wolontariatu, aby Dash to Panel było wysokiej jakości "
-"rozszerzeniem, które jest przydatne DLA CIEBIE! :)"
-
-#: ui/SettingsDonation.ui:151
-msgid ""
-"<span size=\"9000\">Thanks for your time!\n"
-"If you like, you can now hide the donate icon</span>"
-msgstr ""
-"<span size=\"9000\">Dziękuję za Twój czas!\n"
-"Jeśli chcesz, możesz teraz ukryć ikonę darowizny</span>"
 
 #: ui/SettingsFineTune.ui:38
 msgid "Fine-Tune"
